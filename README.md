@@ -1,5 +1,9 @@
 # Leetcode
 
+# Links com o resultado da submissão dos exercícios.
+## Easy
+* [Two Sum](https://leetcode.com/problems/two-sum/submissions/888196549/)
+
 # Como rodar os exercícios:
 
 * ## No vscode/terminal: 
