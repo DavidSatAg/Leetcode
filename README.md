@@ -2,7 +2,21 @@
 
 # Links com o resultado da submissão dos exercícios.
 ## Easy
-* [Two Sum](https://leetcode.com/problems/two-sum/submissions/888196549/)
+* [Two Sum](https://leetcode.com/problems/two-sum/submissions/888196549/) (JavaScript)
+* [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/submissions/888199083/) (Python)
+* [Convert the Temperatue](https://leetcode.com/problems/convert-the-temperature/submissions/888200277/) (Python)
+* [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/888200788/) (Python)
+* [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/888201216/) (Python)
+* [Smallest Even Number](https://leetcode.com/problems/smallest-even-multiple/submissions/888202142/) (Python)
+
+## Medium
+* [Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/888203679/) (Javascript)
+* [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/888204501/) (Python)
+
+## Hard
+* [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/888205266/) (Python)
+* [Maximum Gap](https://leetcode.com/problems/maximum-gap/submissions/888206252/) (Python)
+
 
 # Como rodar os exercícios:
 
